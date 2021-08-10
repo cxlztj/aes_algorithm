@@ -1,9 +1,9 @@
 #!/bin/bash
 #Written by Chen Xiaolong
 #run as below:
-#   chmod 777 cxl_linux_aes.sh
+#   chmod 777 linux_aes.sh
 #   
-#   ./cxl_linux_aes.sh
+#   ./linux_aes.sh
 echo "Select AES Crypt(e) or AES Decrypt(d) with e or d is :  "
 read choice
 echo "Select Filename(include ext name:*.*) and PASSWD is :  "
